@@ -8,7 +8,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<< HEAD
+namespace PacmanLibrary.Properties {
+=======
 namespace Pacman.Properties {
+>>>>>>> 12eafd9eefe2eb4ced1f62db2637513bc4429a80
     using System;
     
     
@@ -39,7 +43,11 @@ namespace Pacman.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
+<<<<<<< HEAD
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("PacmanLibrary.Properties.Resources", typeof(Resources).Assembly);
+=======
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Pacman.Properties.Resources", typeof(Resources).Assembly);
+>>>>>>> 12eafd9eefe2eb4ced1f62db2637513bc4429a80
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,6 +71,8 @@ namespace Pacman.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
+=======
         internal static System.Drawing.Bitmap _0 {
             get {
                 object obj = ResourceManager.GetObject("_0", resourceCulture);
@@ -163,6 +173,7 @@ namespace Pacman.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+>>>>>>> 12eafd9eefe2eb4ced1f62db2637513bc4429a80
         internal static System.Drawing.Bitmap BlinkyDown1 {
             get {
                 object obj = ResourceManager.GetObject("BlinkyDown1", resourceCulture);
@@ -173,6 +184,8 @@ namespace Pacman.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
+=======
         internal static System.Drawing.Bitmap BlinkyDown2 {
             get {
                 object obj = ResourceManager.GetObject("BlinkyDown2", resourceCulture);
@@ -243,6 +256,7 @@ namespace Pacman.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+>>>>>>> 12eafd9eefe2eb4ced1f62db2637513bc4429a80
         internal static System.Drawing.Bitmap ClydeDown1 {
             get {
                 object obj = ResourceManager.GetObject("ClydeDown1", resourceCulture);
@@ -253,6 +267,8 @@ namespace Pacman.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
+=======
         internal static System.Drawing.Bitmap ClydeDown2 {
             get {
                 object obj = ResourceManager.GetObject("ClydeDown2", resourceCulture);
@@ -323,6 +339,7 @@ namespace Pacman.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+>>>>>>> 12eafd9eefe2eb4ced1f62db2637513bc4429a80
         internal static System.Drawing.Bitmap Ghost1 {
             get {
                 object obj = ResourceManager.GetObject("Ghost1", resourceCulture);
@@ -333,6 +350,8 @@ namespace Pacman.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
+=======
         internal static System.Drawing.Bitmap Ghost2 {
             get {
                 object obj = ResourceManager.GetObject("Ghost2", resourceCulture);
@@ -353,6 +372,7 @@ namespace Pacman.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+>>>>>>> 12eafd9eefe2eb4ced1f62db2637513bc4429a80
         internal static System.Drawing.Bitmap InkyDown1 {
             get {
                 object obj = ResourceManager.GetObject("InkyDown1", resourceCulture);
@@ -363,6 +383,8 @@ namespace Pacman.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
+=======
         internal static System.Drawing.Bitmap InkyDown2 {
             get {
                 object obj = ResourceManager.GetObject("InkyDown2", resourceCulture);
@@ -453,6 +475,7 @@ namespace Pacman.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+>>>>>>> 12eafd9eefe2eb4ced1f62db2637513bc4429a80
         internal static System.Drawing.Bitmap Pacman {
             get {
                 object obj = ResourceManager.GetObject("Pacman", resourceCulture);
@@ -461,6 +484,8 @@ namespace Pacman.Properties {
         }
         
         /// <summary>
+<<<<<<< HEAD
+=======
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
         internal static System.IO.UnmanagedMemoryStream pacman_chomp {
@@ -587,6 +612,7 @@ namespace Pacman.Properties {
         }
         
         /// <summary>
+>>>>>>> 12eafd9eefe2eb4ced1f62db2637513bc4429a80
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap PinkyDown1 {
@@ -595,6 +621,8 @@ namespace Pacman.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+<<<<<<< HEAD
+=======
         
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -695,5 +723,6 @@ namespace Pacman.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+>>>>>>> 12eafd9eefe2eb4ced1f62db2637513bc4429a80
     }
 }
