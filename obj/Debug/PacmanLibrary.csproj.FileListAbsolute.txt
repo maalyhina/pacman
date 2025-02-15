@@ -1,0 +1,58 @@
+C:\Users\Ангеліна\Desktop\Курсова\Pacman\PacmanLibrary\bin\Debug\PacmanLibrary.dll
+C:\Users\Ангеліна\Desktop\Курсова\Pacman\PacmanLibrary\bin\Debug\PacmanLibrary.pdb
+C:\Users\Ангеліна\Desktop\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLibrary.csproj.AssemblyReference.cache
+C:\Users\Ангеліна\Desktop\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLibrary.Properties.Resources.resources
+C:\Users\Ангеліна\Desktop\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLibrary.csproj.GenerateResource.cache
+C:\Users\Ангеліна\Desktop\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ангеліна\Desktop\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLibrary.dll
+C:\Users\Ангеліна\Desktop\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLibrary.pdb
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Asio.dll
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Core.dll
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.dll
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Midi.dll
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.WinForms.dll
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.WinMM.dll
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.xml
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Asio.xml
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Core.xml
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Midi.xml
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.WinForms.xml
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.WinMM.xml
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Ангеліна\Desktop\курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLi.EC1CF0F8.Up2Date
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\PacmanLibrary.dll
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\PacmanLibrary.pdb
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\Microsoft.Win32.Registry.dll
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Asio.dll
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Core.dll
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.dll
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Midi.dll
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Wasapi.dll
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.WinForms.dll
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.WinMM.dll
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\System.Security.AccessControl.dll
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\System.Security.Principal.Windows.dll
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\Microsoft.Win32.Registry.xml
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.xml
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Asio.xml
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Core.xml
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Midi.xml
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.Wasapi.xml
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.WinForms.xml
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\NAudio.WinMM.xml
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\System.Security.AccessControl.xml
+D:\step 1\Курсова\Pacman\PacmanLibrary\bin\Debug\System.Security.Principal.Windows.xml
+D:\step 1\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLibrary.csproj.AssemblyReference.cache
+D:\step 1\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLibrary.Properties.Resources.resources
+D:\step 1\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLibrary.csproj.GenerateResource.cache
+D:\step 1\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLibrary.csproj.CoreCompileInputs.cache
+D:\step 1\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLi.EC1CF0F8.Up2Date
+D:\step 1\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLibrary.dll
+D:\step 1\Курсова\Pacman\PacmanLibrary\obj\Debug\PacmanLibrary.pdb
