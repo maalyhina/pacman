@@ -5,11 +5,19 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
+<<<<<<< HEAD
 [assembly: AssemblyTitle("PacmanLibrary")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("PacmanLibrary")]
+=======
+[assembly: AssemblyTitle("Pacman")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Pacman")]
+>>>>>>> 12eafd9eefe2eb4ced1f62db2637513bc4429a80
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +28,11 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
+<<<<<<< HEAD
 [assembly: Guid("8aa12b5d-a6b0-4bed-b08b-3520e606daef")]
+=======
+[assembly: Guid("000ab210-4c5a-4ae7-bc4a-943ce919c9b3")]
+>>>>>>> 12eafd9eefe2eb4ced1f62db2637513bc4429a80
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman", "Pacman\Pacman.csproj", "{000AB210-4C5A-4AE7-BC4A-943CE919C9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacmanLibrary", "PacmanLibrary\PacmanLibrary.csproj", "{8AA12B5D-A6B0-4BED-B08B-3520E606DAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{000AB210-4C5A-4AE7-BC4A-943CE919C9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000AB210-4C5A-4AE7-BC4A-943CE919C9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000AB210-4C5A-4AE7-BC4A-943CE919C9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000AB210-4C5A-4AE7-BC4A-943CE919C9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA12B5D-A6B0-4BED-B08B-3520E606DAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA12B5D-A6B0-4BED-B08B-3520E606DAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA12B5D-A6B0-4BED-B08B-3520E606DAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA12B5D-A6B0-4BED-B08B-3520E606DAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C96D86D-F1D1-433E-B2CD-1F847BCAAA2C}
+	EndGlobalSection
+EndGlobal
