@@ -42,26 +42,20 @@ namespace PacmanLibrary
 
         public bool CheckCollision(int targetX1, int targetY1, int deltaX, int deltaY)
         {
-            int targetX2 = targetX1 + 16;
-            int targetY2 = targetY1 + 16;
+            int targetWidth = 16;
+            int targetHeight = 16;
 
-            int futureX2 = X + 16 + MovementSpeed * deltaX;
-            int futureY2 = Y + 16 + MovementSpeed * deltaY;
+            int targetX2 = targetX1 + targetWidth;
+            int targetY2 = targetY1 + targetHeight;
 
             int futureX1 = X + MovementSpeed * deltaX;
             int futureY1 = Y + MovementSpeed * deltaY;
+            int futureX2 = futureX1 + targetWidth;
+            int futureY2 = futureY1 + targetHeight;
 
-            if (((futureX2 > targetX1) && (futureY2 > targetY1)) && ((futureX2 < targetX2) && (futureY2 <= targetY2)) ||
-                ((futureX2 > targetX1) && (futureY1 > targetY1)) && ((futureX2 <= targetX2) && (futureY1 < targetY2)) ||
-                ((futureX1 > targetX1) && (futureY1 >= targetY1)) && ((futureX1 < targetX2) && (futureY1 < targetY2)) ||
-                ((futureX1 >= targetX1) && (futureY2 > targetY1)) && ((futureX1 < targetX2) && (futureY2 < targetY2)))
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            bool noCollision = futureX2 <= targetX1 || futureX1 >= targetX2 || futureY2 <= targetY1 || futureY1 >= targetY2;
+
+            return !noCollision;
         }
 
         public bool CheckCollision(int targetX1, int targetY1, int size)
