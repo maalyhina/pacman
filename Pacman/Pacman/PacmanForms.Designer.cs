@@ -89,23 +89,31 @@ namespace Pacman
             {1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1 },
             {1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1 },
         };
-        public bool MapColl(MovingPoint entity)
+        public class MapCollisionHandler
         {
-            for (int i = 0; i < map.GetLength(0); i++)
+            private const int Obstacle = 1;
+            private const int CollisionRadius = 16;
+
+            public bool MapColl(MovingPoint entity)
             {
-                for (int j = 0; j < map.GetLength(1); j++)
+                for (int i = 0; i < map.GetLength(0); i++)
                 {
-                    if (map[i, j] == 1)
+                    for (int j = 0; j < map.GetLength(1); j++)
                     {
-                        if (entity.CheckCollision(objectMap[i, j].X, objectMap[i, j].Y, 16) == true)
+                        if (map[i, j] == Obstacle && IsCollision(entity, i, j))
                         {
                             return false;
                         }
                     }
                 }
+
+                return true;
             }
 
-            return true;
+            private bool IsCollision(MovingPoint entity, int x, int y)
+            {
+                return entity.CheckCollision(objectMap[x, y].X, objectMap[x, y].Y, CollisionRadius);
+            }
         }
 
         public bool MapColl(MovingPoint entity, int dx, int dy)
